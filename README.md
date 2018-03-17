@@ -14,11 +14,14 @@ Creating a comprehensive tutorial covering all aspects of security is definitely
 
 ## Main principles
 
-### Isolation: services running on the server should be exposed as little as possible.
+### Isolation
+Services running on the server should be exposed as little as possible or not exposed at all when it's not necessary.
 
-### Mandatory constraints
+### Mandatory access control
 
 ### Performance
+
+### Simplicity
 
 ## Service installations
 
@@ -39,4 +42,5 @@ Creating a comprehensive tutorial covering all aspects of security is definitely
 ## Why?
 
 ## References
+
 
