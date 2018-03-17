@@ -7,14 +7,18 @@ hardened-gentoo-hardened is an attempt to formalise the creation of a reasonably
 ## TO DO
 - [ ] Basic installation details
 - [ ] SELinux MCS/MLS installation
+- [ ] ZFS
+- [ ] Authentication and roles
 - [ ] Auditing
 - [ ] Integrity checks
 - [ ] Monitoring
 - [ ] Reporting
 - [ ] Containerisation
 - [ ] Logging
+- [ ] Network Firewall (security labels and packet filtering)
 - [ ] Raspberry PI basic setup
 - [ ] PKI management 
+- [ ] Signing
 
 ### Goals
 
