@@ -23,6 +23,12 @@ Services running on the server should be exposed as little as possible or not ex
 
 #### Simplicity
 
+## Requirements
+
+* A Linux-compatible computer that will host the main server
+* (Optional) a number of additional nodes for redundancy, storage and backups
+* (Optional) a barebone PC (eg. a Rapsberry Pi) for isolated key management. 
+
 ## Service installation and configuration
 
 ### Auditing
@@ -49,6 +55,12 @@ Services running on the server should be exposed as little as possible or not ex
 
 Centralised orchestration and administration
 
-## Why?
+## (In)frequently Asked Questions
+
+### Why?
+
+Installing and configuring a Linux installation (especially a Gentoo Linux) is a cumbersome and time-consuming task. Documentation and tutorials are scattered throughout the Internet and many contain only fragments of useful information, so I wanted to have a collection of practices that may help building a secure server box in a reproducible manner.
 
 ## References
+
+[Limitations of air gapping](https://en.wikipedia.org/wiki/Air_gap_%28networking%29#Limitations)
