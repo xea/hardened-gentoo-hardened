@@ -63,4 +63,4 @@ Installing and configuring a Linux installation (especially a Gentoo Linux) is a
 
 ## References
 
-[Limitations of air gapping](https://en.wikipedia.org/wiki/Air_gap_%28networking%29#Limitations)
+[1] [Limitations of air gapping](https://en.wikipedia.org/wiki/Air_gap_%28networking%29#Limitations)
