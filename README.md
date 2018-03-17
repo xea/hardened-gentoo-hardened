@@ -4,26 +4,28 @@
 
 hardened-gentoo-hardened is an attempt to formalise the creation of a reasonably secure Gentoo Linux installation, extending beyond the normal (hardened) Gentoo Linux setup, including some degree of containerisation and application isolation. 
 
-## Goals
+### Goals
 
 The main goal of this document is to organise my attempts to create a reasonably secure Linux installation in a readable format. 
 
-## Non-goals
+### Non-goals
 
 Creating a comprehensive tutorial covering all aspects of security is definitely not a goal. Attaining certifiable or military-grade security is also not a goal and everything documented here should be taken with care.
 
-## Main principles
+### Design principles
 
-### Isolation
+#### Isolation
 Services running on the server should be exposed as little as possible or not exposed at all when it's not necessary.
 
-### Mandatory access control
+#### Mandatory access control
 
-### Performance
+#### Performance
 
-### Simplicity
+#### Simplicity
 
-## Service installations
+## Service installation and configuration
+
+### Auditing
 
 ### Email (SMTP)
 
@@ -33,14 +35,20 @@ Services running on the server should be exposed as little as possible or not ex
 
 ### DNS
 
+### Integrity
+
+### Monitoring
+
 ### Logging
 
 ### VPN
 
 ### Proxying
 
+## Missing pieces
+
+Centralised orchestration and administration
+
 ## Why?
 
 ## References
-
-
