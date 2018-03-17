@@ -18,6 +18,7 @@ hardened-gentoo-hardened is an attempt to formalise the creation of a reasonably
 - [ ] Network Firewall (security labels and packet filtering)
 - [ ] Raspberry PI basic setup
 - [ ] PKI management 
+- [ ] Password management
 - [ ] Signing
 
 ### Goals
@@ -26,7 +27,7 @@ The main goal of this document is to organise my attempts to create a reasonably
 
 ### Non-goals
 
-Creating a comprehensive tutorial covering all aspects of security is definitely not a goal. Attaining certifiable or military-grade security is also not a goal and everything documented here should be taken with care.
+Creating a comprehensive tutorial covering all aspects of security is definitely not a goal. Attaining certifiable or military-grade security is also not a goal and everything documented here should be taken with care. 
 
 ### Design principles
 
@@ -79,4 +80,13 @@ Installing and configuring a Linux installation (especially a Gentoo Linux) is a
 
 ## References
 
-[1] [Limitations of air gapping](https://en.wikipedia.org/wiki/Air_gap_%28networking%29#Limitations)
+[] [Gentoo installation handbook](https://wiki.gentoo.org/wiki/Handbook:AMD64)
+[] [Gentoo SELinux handbook](https://wiki.gentoo.org/wiki/SELinux/Installation)
+[] [Limitations of air gapping](https://en.wikipedia.org/wiki/Air_gap_%28networking%29#Limitations)
+[] [Mail Server Guide](https://www.c0ffee.net/blog/mail-server-guide)
+[] [Linux IP networks](http://linux-ip.net/html/index.html)
+[] [Gentoo Kernel module signing](https://wiki.gentoo.org/wiki/Signed_kernel_module_support)
+[] [DNSSEC with Unbound](https://unbound.net/documentation/howto_anchor.html)
+[] [iptables with SELinux](https://www.linux.com/learn/using-selinux-and-iptables-together)
+[] [Generating SECMARK rules](https://fedorapeople.org/~dwalsh/SELinux/secmark/secmarkgen)
+[] [Authentication management](https://www.privacyidea.org/)
